@@ -1,0 +1,48 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "id": "2.1.1",
+                    "name": "particlesGpu.tox",
+                    "path": "/particulas interactivas2/particlesGpu.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.2",
+                    "name": "cam1.tox",
+                    "path": "/particulas interactivas2/cam1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.3",
+                    "name": "cam2.tox",
+                    "path": "/particulas interactivas2/cam2.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.4",
+                    "name": "particlesGpu1.tox",
+                    "path": "/particulas interactivas2/particlesGpu1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.5",
+                    "name": "particlesGpu2.tox",
+                    "path": "/particulas interactivas2/particlesGpu2.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.1",
+            "name": "particulas interactivas2",
+            "path": "/particulas interactivas2",
+            "type": "directory"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
