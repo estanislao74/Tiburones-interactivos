@@ -1,5 +1,5 @@
 # Tiburones-interactivos
-nstalacion Interactiva de Agua y Tiburones
+instalacion Interactiva de Agua y Tiburones
 Instalación audiovisual interactiva en TouchDesigner: una vista aérea de agua oscura con tiburones 3D nadando de forma autónoma, sobre un efecto de agua psicodélico tipo feedback que reacciona al movimiento de las personas frente a un sensor Kinect.
 
 Que hace el proyecto
